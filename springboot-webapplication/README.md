@@ -21,6 +21,16 @@
 
   Application is going to be deploying
   
+  ![image](https://user-images.githubusercontent.com/58024415/105580668-c7599c80-5db3-11eb-9f92-29efdefcd59b.png)
   
+  Click on Upload and Deploy
   
+  ![image](https://user-images.githubusercontent.com/58024415/105580696-efe19680-5db3-11eb-8ab6-f5357099d57d.png)
+
+  Upload war file and click on Deploy
   
+  ![image](https://user-images.githubusercontent.com/58024415/105580736-2ae3ca00-5db4-11eb-8ce7-4540cf43a8a7.png)
+
+  Click on link and check output of application
+  
+  ![image](https://user-images.githubusercontent.com/58024415/105580754-4353e480-5db4-11eb-88a2-2990dfafa878.png)
