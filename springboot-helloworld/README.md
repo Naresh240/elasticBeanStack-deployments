@@ -19,11 +19,11 @@
   
   ![image](https://user-images.githubusercontent.com/58024415/105580088-4e0c7a80-5db0-11eb-9123-6aafb63f7c63.png)
   
-  Click on uplod and deploy
+  Click on Uplod and deploy
   
   ![image](https://user-images.githubusercontent.com/58024415/105580097-68deef00-5db0-11eb-94cd-6ee22c743c04.png)
   
-  Click on upload and deploy. provide jar file and click on 
+  Click on upload and deploy. provide jar file and click on Deploy
   
   ![image](https://user-images.githubusercontent.com/58024415/105580191-e3a80a00-5db0-11eb-8dc3-9da78cccb5c8.png)
   
