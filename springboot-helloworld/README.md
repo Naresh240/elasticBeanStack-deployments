@@ -15,7 +15,7 @@
   
   ![image](https://user-images.githubusercontent.com/58024415/105579969-95ded200-5daf-11eb-9e38-a369438a6a17.png)
 
-  Click on Cofigure more options
+  Click on Create Application
   
   ![image](https://user-images.githubusercontent.com/58024415/105580088-4e0c7a80-5db0-11eb-9123-6aafb63f7c63.png)
   
